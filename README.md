@@ -1,4 +1,7 @@
 # Multi-handwritten-digit-recognition-CRNN-CTC-loss
+Check out my 2 YOUTUBE channels for more:
+1. [Mrzaizai2k - AI](https://www.youtube.com/channel/UCFGCVG0P2eLS5jkDaE0vSfA) (NEW)
+2. [Mrzaizai2k](https://www.youtube.com/channel/UCCq3lQ1W437euT9eq2_26HQ) (old)
 
 Here I have trained a simple model with CRNN + CTC loss for multi handwritten digit recognition. 
 
